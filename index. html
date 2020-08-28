@@ -1,2 +1,7 @@
 <h1 style="color:black;font-family:verdana;font-size:100%;">Test 1</h1>
-<p style="color:555;font-family:verdana;font-size:
+<br>
+<p style="color:555;font-family:verdana;font-size:100%;">
+  Toto je test mé první stránky.</p>
+<center>
+<button style="color:grean;font-size:200%;" onclick="location.href='http://birdlife.cz'">birdlife.cz</button>
+</center>
